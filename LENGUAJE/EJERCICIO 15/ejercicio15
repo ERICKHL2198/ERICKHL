@@ -1,13 +1,11 @@
 
-#include <iostream>
+#include<iostream>
 using namespace std;
-int main ()
-{
-
-int n;
-int s;
-int c;
-int p;
-
-return 0;
+int main(){
+int leerN;
+int sumarP;
+cin>>leerN;
+cin>>sumarP;
+cout<<"sumapositivos:"<<sumarp<<endl;
+rreturn 0;
 }
